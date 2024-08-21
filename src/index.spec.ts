@@ -1,3 +1,5 @@
+
+// @ts-ignore
 import { Assert } from 'ts-std-lib';
 import { describe, it } from 'mocha';
 import { ChartConfiguration } from 'chart.js';
